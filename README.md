@@ -46,7 +46,7 @@ This project aims to recreate Wordle using Sveltekit and Typescript language for
 
 
 ### Built With
-* [![Svelte.dev][Svelte-url]]
+* [![Svelte][Svelte.dev][Svelte-url]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
